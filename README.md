@@ -42,16 +42,8 @@ The superstore dataset is already clean, which has saved me some time.
     
 
 ## Creating Pivot tables (Calculations Tab) 
-I worked exclusively with the Orders tab, focusing on sales to create the Superstore dashboard. Below are the pivot tables I created.
-![image](https://github.com/user-attachments/assets/9ac3fc87-a4a7-44ec-8318-7490228f3bfc)
-![image](https://github.com/user-attachments/assets/1ab3500b-f085-4dd2-8da7-3427f832b8be)
-![image](https://github.com/user-attachments/assets/0720440c-39a4-4e7f-ac45-2bca23395f2d)
-![image](https://github.com/user-attachments/assets/e8f6b25f-44f1-4cdc-a5d8-dcf47b940e55)
-![image](https://github.com/user-attachments/assets/6636b8cd-7125-486e-b6e1-c1b4f0b9e78c)
-![image](https://github.com/user-attachments/assets/bd72dacb-d622-48c6-a14c-cd699e632974)
-![image](https://github.com/user-attachments/assets/af6c73b8-8445-409b-95b6-68b63591157a)
-![image](https://github.com/user-attachments/assets/12be38bc-ce26-46f7-8b7e-aa21b311bc68)
-![image](https://github.com/user-attachments/assets/d8ae0ea4-d9e3-4d7a-b80b-4836f352ab2e)
+I worked exclusively with the Orders tab, focusing on sales to create the Superstore dashboard. Below are the pivot tables I created. The pivot tables that i have created can be located in the Calculations tab in the 
+
 
 
 ## Data visualization 
