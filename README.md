@@ -11,3 +11,15 @@ The dataset that i will be working with can be located from the following Tablea
 
 ## Understanding the dataset
 The dataset that i will b
+
+## Cleaning the dataset
+The dataset that i will b
+
+## Transforming the dataset
+The dataset that i will b
+
+## Creating Pivot tables (Calculations Tab) 
+The dataset that i will b
+
+## Data visualization 
+The dataset that i will b
