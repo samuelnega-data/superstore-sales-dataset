@@ -4,7 +4,7 @@
 Tools being used for the project: Excel
 ```
 ## Overview
-In this project, I will analyze a superstore sales dataset using Excel. The process will involve cleaning and transforming the dataset, followed by in-depth analysis using Excel. Additionally, I will create pivot tables and develop a visual dashboard to present key insights.
+In this project, I will analyze a superstore sales dataset using Excel. The process will involve cleaning and transforming the dataset, followed by in-depth analysis using Excel. Additionally, I will create pivot tables and develop a visual dashboard to present key insights. The following is the final output after completing the project. --> [Superstore Data Analysis](https://github.com/user-attachments/files/19046982/Superstore.Data.Analysis.1.xlsx)
 
 ## Retrieving the dataset
 The dataset that i will be working with can be located from the following Tableau community post: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls 
@@ -42,8 +42,10 @@ The superstore dataset is already clean, which has saved me some time.
     
 
 ## Creating Pivot tables (Calculations Tab) 
-I worked exclusively with the Orders tab, focusing on sales to create the Superstore dashboard. Below are the pivot tables I created. The pivot tables that i have created can be located in the Calculations tab in the  Excel File [Superstore Data Analysis](https://github.com/user-attachments/files/19046982/Superstore.Data.Analysis.1.xlsx) Excel File.
+I worked exclusively with the Orders tab, focusing on sales to create the Superstore dashboard. The pivot tables I created can be found in the [Superstore Data Analysis](https://github.com/user-attachments/files/19046982/Superstore.Data.Analysis.1.xlsx) Excel File.
 
 
 ## Data visualization 
-This is the Superstore Dashboard that i created with the use of the pivot tables that i had developed in the caluclations tab. The following is a snapshot of the dataset, however feel free to explore that dynamic dashboard by accessing the [Superstore Data Analysis](https://github.com/user-attachments/files/19046982/Superstore.Data.Analysis.1.xlsx) excel file.
+This is the Superstore Dashboard I created using the pivot tables developed in the Calculations tab. The following is a snapshot of the dataset, but feel free to explore the dynamic dashboard by accessing the full version versopm of the [Superstore Data Analysis](https://github.com/user-attachments/files/19046982/Superstore.Data.Analysis.1.xlsx) excel file.
+![](https://github.com/user-attachments/assets/6f63dcca-c00a-4e0c-9b20-85b36a73f372)
+
