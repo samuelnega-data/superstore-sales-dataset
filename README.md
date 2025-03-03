@@ -42,9 +42,8 @@ The superstore dataset is already clean, which has saved me some time.
     
 
 ## Creating Pivot tables (Calculations Tab) 
-I worked exclusively with the Orders tab, focusing on sales to create the Superstore dashboard. Below are the pivot tables I created. The pivot tables that i have created can be located in the Calculations tab in the 
-
+I worked exclusively with the Orders tab, focusing on sales to create the Superstore dashboard. Below are the pivot tables I created. The pivot tables that i have created can be located in the Calculations tab in the  Excel File [Superstore Data Analysis](https://github.com/user-attachments/files/19046982/Superstore.Data.Analysis.1.xlsx) Excel File.
 
 
 ## Data visualization 
-The dataset that i will b
+This is the Superstore Dashboard that i created with the use of the pivot tables that i had developed in the caluclations tab. The following is a snapshot of the dataset, however feel free to explore that dynamic dashboard by accessing the [Superstore Data Analysis](https://github.com/user-attachments/files/19046982/Superstore.Data.Analysis.1.xlsx) excel file.
